@@ -1,0 +1,16 @@
+# Основные библиотеки
+streamlit>=1.32.0
+requests>=2.31.0
+python-dotenv>=1.0.1
+
+# RAG
+faiss-cpu>=1.8.0
+sentence-transformers>=2.5.1
+torch>=2.0.0
+numpy>=1.21.0
+
+# LLM
+litellm>=1.40.0
+
+# Токены
+tiktoken>=0.7.0
