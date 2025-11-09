@@ -8,3 +8,4 @@ logs
 *.pyc
 *.log
 pyvenv.cfg
+.DS_Store
